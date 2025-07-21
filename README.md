@@ -14,15 +14,6 @@ This project implements a **floating-point division calculator** using **two PIC
 
 ---
 
-## 🎯 Objectives
-
-✅ Design a hardware system using two PIC microcontrollers with inter-processor communication.
-✅ Program assembly code for interactive input, data transfer, and computation.
-✅ Simulate the system using Proteus with all hardware components wired properly.
-✅ Demonstrate advanced embedded system design principles, including interrupts, data transfers, and user interface design.
-
----
-
 ## 🛠️ System Overview
 
 ### 🎛 Hardware Components
